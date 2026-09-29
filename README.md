@@ -39,3 +39,9 @@ CC BY-NC-SA 4.0 - dilarang jual, wajib credit.
 @smallchild_raff03 (IG)
 @ELL-STORE (GitHub)
 @darkprime46 (TikTok)
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
