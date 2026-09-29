@@ -32,6 +32,7 @@ Lagu putus-putus -> pkg install -y termux-api
 yt-dlp error -> pip install --upgrade yt-dlp
 
 diperlukan:
+
 TERMUX
 https://f-droid.org/id/packages/com.termux/
 TERMUX:api
