@@ -46,9 +46,9 @@ karena sudah di versi lama
 CC BY-NC-SA 4.0 - dilarang jual, wajib credit.
 
 👤Author: 
-@smallchild_raff03 (IG)
-@ELL-STORE (GitHub)
-@darkprime46 (TikTok)
+**@smallchild_raff03 (IG)**
+**@ELL-STORE (GitHub)**
+**@darkprime46 (TikTok)**
 
 # (ENGLISH)
 
