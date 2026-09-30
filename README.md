@@ -6,7 +6,7 @@ Termux music player — yt-dlp + mpv.
 
 Setup awal :
 pkg update && pkg upgrade -y
-pkg install -y yt-dlp mpv ffmpeg jq termux-api
+pkg update && pkg install -y yt-dlp mpv ffmpeg jq
 termux-setup-storage
 
 Download Script & jalankan:
@@ -76,6 +76,16 @@ bash ~/ellmusic.sh
 `exit` - exit
 
 Player: `p` pause, `r` repeat, `n` next, `q` stop
+
+*Requirements:*
+
+*TERMUX*
+https://f-droid.org/packages/com.termux/
+*TERMUX:API*
+https://f-droid.org/packages/com.termux.api/
+
+Do not download from Play Store or App Store
+as they are outdated versions
 
 ## Troubleshooting
 
