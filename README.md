@@ -50,7 +50,8 @@ CC BY-NC-SA 4.0 - dilarang jual, wajib credit.
 @ELL-STORE (GitHub)
 @darkprime46 (TikTok)
 
-(English)
+# (ENGLISH)
+
 # Music Player
 
 Termux music player — yt-dlp + mpv.
