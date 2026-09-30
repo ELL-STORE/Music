@@ -148,5 +148,3 @@ This project is licensed under **CC BY-NC-SA 4.0**.
 - **TikTok:** [@darkprime46](https://tiktok.com/@darkprime46)
 
 ---
-
-Made with ❤️ for the Termux community.
