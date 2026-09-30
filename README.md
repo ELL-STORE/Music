@@ -33,9 +33,10 @@ yt-dlp error -> pip install --upgrade yt-dlp
 
 diperlukan:
 
-TERMUX
+**TERMUX**
 https://f-droid.org/id/packages/com.termux/
-TERMUX:api
+
+**TERMUX:api**
 https://f-droid.org/id/packages/com.termux.api/
 
 jangan download dari playstore atau AppStore
