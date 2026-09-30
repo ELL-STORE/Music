@@ -10,7 +10,7 @@ pkg update && pkg install -y yt-dlp mpv ffmpeg jq
 termux-setup-storage
 
 Download Script & jalankan:
-cp ~/storage/downloads/ellmusic.sh ~/
+cp ~/storage/downloads/ellmusic.sh
 bash ~/ellmusic.sh
 
 ## Perintah
@@ -63,7 +63,7 @@ pkg install -y yt-dlp mpv ffmpeg jq termux-api
 termux-setup-storage
 
 Download Script & run:
-cp ~/storage/downloads/ellmusic.sh ~/
+cp ~/storage/downloads/ellmusic.sh
 bash ~/ellmusic.sh
 
 ## Commands
