@@ -27,14 +27,14 @@ Pastikan aplikasi berikut sudah terinstall dari **F-Droid**:
 
 ```bash
 pkg update && pkg upgrade -y
-pkg install -y yt-dlp mpv ffmpeg jq termux-api
+pkg update && pkg install -y yt-dlp mpv ffmpeg jq
 termux-setup-storage
 ```
 
 #### Download Script dan Jalankan
 
 ```bash
-cp ~/storage/downloads/ellmusic.sh .
+cp ~/storage/downloads/ellmusic.sh
 bash ~/ellmusic.sh
 ```
 
@@ -90,14 +90,14 @@ Make sure the following apps are installed through **F-Droid**:
 
 ```bash
 pkg update && pkg upgrade -y
-pkg install -y yt-dlp mpv ffmpeg jq termux-api
+pkg update && pkg install -y yt-dlp mpv ffmpeg jq
 termux-setup-storage
 ```
 
 #### Download Script and Run
 
 ```bash
-cp ~/storage/downloads/ellmusic.sh .
+cp ~/storage/downloads/ellmusic.sh
 bash ~/ellmusic.sh
 ```
 
