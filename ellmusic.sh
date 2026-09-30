@@ -2,7 +2,7 @@
 # ============================================================
 #  MUSIC PLAYER  —  Termux Edition (v2.6.1)
 #  by @smallchild_raff03  •  License: CC BY-NC-SA 4.0
-#  Dilarang jual, wajib credit.
+#  Dilarang menjual script ini, wajib credit.
 # ============================================================
 
 set -uo pipefail
