@@ -137,6 +137,8 @@ set_translations() {
 
 set_translations
 
+# masukkan band favorit mu
+# enter your favorite band
 RANDOM_SONGS=(
   "Ed Sheeran Shape of You"
   "The Weeknd Blinding Lights"
