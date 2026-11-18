@@ -34,7 +34,7 @@ termux-setup-storage
 #### Download Script dan Jalankan
 
 ```bash
-cp ~/storage/downloads/ellmusic.sh ~/ellmusic.sh
+cp /sdcard/Download/ellmusic.sh ~/ellmusic.sh
 bash ~/ellmusic.sh
 ```
 
@@ -97,7 +97,7 @@ termux-setup-storage
 #### Download Script and Run
 
 ```bash
-cp ~/storage/downloads/ellmusic.sh
+cp /sdcard/Download/ellmusic.sh ~/ellmusic.sh
 bash ~/ellmusic.sh
 ```
 
